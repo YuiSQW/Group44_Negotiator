@@ -1,2 +1,2 @@
 # NegotiationAgent
-Make agent to get good deals
+Make best NegotiationAgent 
